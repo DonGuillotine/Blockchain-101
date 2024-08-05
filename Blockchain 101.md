@@ -1,5 +1,8 @@
 ---
 
+
+---
+
 <h1 id="introduction-to-blockchain">Introduction to Blockchain</h1>
 <ol>
 <li>
@@ -255,7 +258,7 @@
 </ul>
 <p>Each type of blockchain serves different needs based on the level of access and control required. Public blockchains are for open, decentralized systems, consortium blockchains for semi-private collaborations, and private blockchains for internal organizational use.</p>
 <h1 id="distributed-ledger-platforms">DISTRIBUTED LEDGER PLATFORMS</h1>
-<p><img src="https://fast.image.delivery/jbeszsf.jpg" alt="Image showing Distributed Ledger Platforms"><br>
+<p><img src="https://fast.image.delivery/jbeszsf.jpg" alt="Image Showing Distributed Ledger Platforms"><br>
 There are various blockchain platforms, each designed for different purposes and with different features. Here are the key points:</p>
 <ol>
 <li>
