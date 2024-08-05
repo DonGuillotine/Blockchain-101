@@ -1,8 +1,5 @@
 ---
 
-
----
-
 <h1 id="introduction-to-blockchain">Introduction to Blockchain</h1>
 <ol>
 <li>
